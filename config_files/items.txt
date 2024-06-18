@@ -1,0 +1,127 @@
+18
+./assets/WindowIcone/basic_sword.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 940
+POS.y = 1007
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/legion_axe.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 967
+POS.y = 707
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/basic_shield.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 940
+POS.y = 942
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/legion_shield.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 1005
+POS.y = 942
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/potion_green.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 1067
+POS.y = 942
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/potion_yellow.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 1130
+POS.y = 942
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/potion_red.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 940
+POS.y = 942
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/empty.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 940
+POS.y = 942
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/water_contaminated.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 940
+POS.y = 942
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/basic_sword_shadow.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 940
+POS.y = 1007
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/legion_axe_shadow.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 967
+POS.y = 707
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/basic_shield_shadow.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 940
+POS.y = 942
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/legion_shield_shadow.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 1005
+POS.y = 942
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/potion_green_shadow.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 1067
+POS.y = 942
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/potion_yellow_shadow.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 1130
+POS.y = 942
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/potion_red_shadow.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 940
+POS.y = 942
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/empty.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 940
+POS.y = 942
+STATE=0
+________________________________________________________________________________
+./assets/WindowIcone/water_contaminated.png
+SIZE.x = 45
+SIZE.y = 45
+POS.x = 940
+POS.y = 942
+STATE=0
+________________________________________________________________________________
